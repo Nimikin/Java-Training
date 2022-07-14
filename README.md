@@ -1,3 +1,2 @@
-# Java-Core-Completed-Courses + Training programs
-Courses that I've completed through my educational process.
+# Java-Core Training programs
 All the packages are separate programs.
